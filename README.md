@@ -1,6 +1,6 @@
 <h1 align="center"> Project liquid login </h1>
 
-![preview site](video-menu.gif)
+![preview site](img-site.png)
 
 ## Agradecimentos:
 
